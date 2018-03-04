@@ -1,2 +1,2 @@
 # katas-boilerplate
-Boilerplate for starting a kata right away in Javascript, Python, Ruby
+Boilerplate for starting a kata right away in Python or Ruby.
